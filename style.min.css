@@ -48,7 +48,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display
  #links .pages{position:relative;overflow:visible;list-style:none}#header
  #links .pages:after{content:'\00a0';background:url("http://static.tumblr.com/hugxd2w/PvOmc2d0f/main-sprite.png") no-repeat;background-position:-60px -420px;width:20px;height:10px;display:inline-block;vertical-align:middle}#header
  #links .pages:hover:after{background-position:-60px -478px}#header
- #links .pages ul{position:absolute;display:none;background:white;width:200px;padding-bottom:10px;text-align:left;z-index:3000;left:-20px;top:60px;-webkit-box-shadow:0 1px 2px 0 rgba(0,0,0,0.2);-moz-box-shadow:0 1px 2px 0 rgba(0,0,0,0.2);box-shadow:0 1px 2px 0 rgba(0,0,0,0.2)}#header
+ #links .pages ul{position:absolute;display:none;background:white;width:200px;padding-bottom:0px;text-align:left;z-index:3000;left:-20px;top:60px;-webkit-box-shadow:0 1px 2px 0 rgba(0,0,0,0.2);-moz-box-shadow:0 1px 2px 0 rgba(0,0,0,0.2);box-shadow:0 1px 2px 0 rgba(0,0,0,0.2)}#header
  #links .pages:hover ul{display:block}#header
  #links .pages li{display:block;float:none;padding:10px 0 10px 20px;line-height:1;margin-left:0}#header
  #search{width:25%;float:left;margin-top:13px}#header
